@@ -1,4 +1,5 @@
 XML/AzureSecrets.xml
+AzureSecrets.xml
 TestResults*
 1
 TestConfiguration.xml
@@ -7,3 +8,4 @@ report*
 UploadStatusFile*
 *.azure.env
 *-buildlogs.zip
+XML/GlobalConfigurations_runtime.xml
